@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: monospace;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+body {
+  overflow: hidden;
+}
+html {
+  body {
+    font-family: $font;
+    color: $font-color;
+    transition: ease;
+    transition-duration: 1s;
+  }
+}
+#modal-root{
+  position: relative;
+  z-index: 100;  
+}
+
+@font-face {
+  font-family: "text-value";
+  src: url("../../fonts/text-value.ttf");
+}
+@font-face {
+  font-family: "text-placeholder";
+  src: url("../../fonts/text-placeholder.otf");
+}
+@font-face {
+  font-family: "title-bar";
+  src: url("../../fonts/title-bar.ttf");
+}
+@font-face {
+  font-family: "settings";
+  src: url("../../fonts/settings.ttf");
+}

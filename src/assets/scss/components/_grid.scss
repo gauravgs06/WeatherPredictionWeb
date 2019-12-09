@@ -1,0 +1,39 @@
+.GridContainer {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  grid-template-rows: 0.05fr 0.4fr 0.55fr;
+  overflow: hidden;
+
+  .TitleBarContainer {
+    width: 100%;
+    height: 100%;
+    grid-row-start: 1;
+  }
+  .AnimationContainer {
+    width: 100%;
+    height: 100%;
+    grid-row-start: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    div{
+      
+      font-family: "text-value";
+      font-size: 50px;
+      color: black;
+    }
+  }
+  .ContentContainer {
+    grid-row-start: 3;
+    width: 100%;
+    height: 100%;
+    padding: 2.5%;
+    box-shadow: 16px 16px 16px darken(gray, 10%);
+    .MainContent {
+      width: 100%;
+      height: 100%;
+    }
+      
+  }
+}

@@ -1,0 +1,34 @@
+// default theme color
+$themes: (
+  "morning": (
+    "TitleBar": #00afe5,
+    "top": #00afe5,
+    "bottom": #b3e0f2,
+    "color": #353535,
+    "bg-hover": #00afe5
+  ),
+  "afternoon": (
+    "TitleBar": #ffd790,
+    "top": #ffa300,
+    "bottom": #ffd790,
+    "color": #353535,
+    "bg-hover": #ffa300
+  ),
+  "evening": (
+    "TitleBar": #ffdbb8,
+    "top": #ffdbb8,
+    "bottom": #fcd384,
+    "color": #353535,
+    "bg-hover": #fcdbb8
+  ),
+  "night": (
+    "TitleBar": #00003f,
+    "top": #00003f,
+    "bottom": #000066,
+    "color": #ffffff,
+    "bg-hover": #000066
+  )
+);
+
+$font: "Courier";
+$font-color: #eeeeee;
