@@ -11,7 +11,3 @@ yarn start
 yarn dev
 ```
 > Starts a react development server and open in electron app
-```bash
-yarn ebuild
-```
-> Build and package the app
