@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aeca8a3.chunk.css",
-    "main.js": "/static/js/main.e1d82f39.chunk.js",
-    "main.js.map": "/static/js/main.e1d82f39.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.809ac6d8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.809ac6d8.js.map",
-    "static/js/2.d5147c4c.chunk.js": "/static/js/2.d5147c4c.chunk.js",
-    "static/js/2.d5147c4c.chunk.js.map": "/static/js/2.d5147c4c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.49e3d2f4751c6d6ad3fae18411584e12.js": "/precache-manifest.49e3d2f4751c6d6ad3fae18411584e12.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0aeca8a3.chunk.css.map": "/static/css/main.0aeca8a3.chunk.css.map",
-    "static/media/bg.png": "/static/media/bg.a5fe3c5a.png",
-    "static/media/cloud.png": "/static/media/cloud.3f0a149f.png",
-    "static/media/WeatherApp.scss": "/static/media/title-bar.36721591.ttf"
+    "main.css": "/WeatherPredictionWeb/static/css/main.fc6ba008.chunk.css",
+    "main.js": "/WeatherPredictionWeb/static/js/main.e1d82f39.chunk.js",
+    "main.js.map": "/WeatherPredictionWeb/static/js/main.e1d82f39.chunk.js.map",
+    "runtime-main.js": "/WeatherPredictionWeb/static/js/runtime-main.374da81e.js",
+    "runtime-main.js.map": "/WeatherPredictionWeb/static/js/runtime-main.374da81e.js.map",
+    "static/js/2.d5147c4c.chunk.js": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js",
+    "static/js/2.d5147c4c.chunk.js.map": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js.map",
+    "index.html": "/WeatherPredictionWeb/index.html",
+    "precache-manifest.cd4701e0ab3b99163dfe88de608cbdef.js": "/WeatherPredictionWeb/precache-manifest.cd4701e0ab3b99163dfe88de608cbdef.js",
+    "service-worker.js": "/WeatherPredictionWeb/service-worker.js",
+    "static/css/main.fc6ba008.chunk.css.map": "/WeatherPredictionWeb/static/css/main.fc6ba008.chunk.css.map",
+    "static/media/bg.png": "/WeatherPredictionWeb/static/media/bg.a5fe3c5a.png",
+    "static/media/cloud.png": "/WeatherPredictionWeb/static/media/cloud.3f0a149f.png",
+    "static/media/WeatherApp.scss": "/WeatherPredictionWeb/static/media/title-bar.36721591.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.809ac6d8.js",
+    "static/js/runtime-main.374da81e.js",
     "static/js/2.d5147c4c.chunk.js",
-    "static/css/main.0aeca8a3.chunk.css",
+    "static/css/main.fc6ba008.chunk.css",
     "static/js/main.e1d82f39.chunk.js"
   ]
 }
