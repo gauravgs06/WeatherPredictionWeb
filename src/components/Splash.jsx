@@ -19,13 +19,9 @@ export default class Splash extends Component {
       }
     };
     return (
-      <React.Fragment>
-        <Lottie
-          options={defaultOptions}
-          width={600}
-          height={600}
-        />
-      </React.Fragment>
+      <div className="splash">
+        <Lottie options={defaultOptions}  />
+      </div>
     );
   }
 }
