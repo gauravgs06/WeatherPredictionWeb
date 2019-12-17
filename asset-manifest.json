@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/WeatherPredictionWeb/static/css/main.498d33c3.chunk.css",
+    "main.css": "/WeatherPredictionWeb/static/css/main.6e48d24b.chunk.css",
     "main.js": "/WeatherPredictionWeb/static/js/main.d678992a.chunk.js",
     "main.js.map": "/WeatherPredictionWeb/static/js/main.d678992a.chunk.js.map",
     "runtime-main.js": "/WeatherPredictionWeb/static/js/runtime-main.374da81e.js",
@@ -8,9 +8,9 @@
     "static/js/2.d5147c4c.chunk.js": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js",
     "static/js/2.d5147c4c.chunk.js.map": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js.map",
     "index.html": "/WeatherPredictionWeb/index.html",
-    "precache-manifest.3e6fe8471192dc14589b215a0933f5e5.js": "/WeatherPredictionWeb/precache-manifest.3e6fe8471192dc14589b215a0933f5e5.js",
+    "precache-manifest.d2bdf5a24464a9515464ca46acccea73.js": "/WeatherPredictionWeb/precache-manifest.d2bdf5a24464a9515464ca46acccea73.js",
     "service-worker.js": "/WeatherPredictionWeb/service-worker.js",
-    "static/css/main.498d33c3.chunk.css.map": "/WeatherPredictionWeb/static/css/main.498d33c3.chunk.css.map",
+    "static/css/main.6e48d24b.chunk.css.map": "/WeatherPredictionWeb/static/css/main.6e48d24b.chunk.css.map",
     "static/media/bg.png": "/WeatherPredictionWeb/static/media/bg.a5fe3c5a.png",
     "static/media/cloud.png": "/WeatherPredictionWeb/static/media/cloud.3f0a149f.png",
     "static/media/WeatherApp.scss": "/WeatherPredictionWeb/static/media/title-bar.36721591.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.374da81e.js",
     "static/js/2.d5147c4c.chunk.js",
-    "static/css/main.498d33c3.chunk.css",
+    "static/css/main.6e48d24b.chunk.css",
     "static/js/main.d678992a.chunk.js"
   ]
 }
