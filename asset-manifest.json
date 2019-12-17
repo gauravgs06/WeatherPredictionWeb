@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/WeatherPredictionWeb/static/css/main.6667505f.chunk.css",
-    "main.js": "/WeatherPredictionWeb/static/js/main.5c5c5fb5.chunk.js",
-    "main.js.map": "/WeatherPredictionWeb/static/js/main.5c5c5fb5.chunk.js.map",
+    "main.css": "/WeatherPredictionWeb/static/css/main.d282a1ee.chunk.css",
+    "main.js": "/WeatherPredictionWeb/static/js/main.d678992a.chunk.js",
+    "main.js.map": "/WeatherPredictionWeb/static/js/main.d678992a.chunk.js.map",
     "runtime-main.js": "/WeatherPredictionWeb/static/js/runtime-main.374da81e.js",
     "runtime-main.js.map": "/WeatherPredictionWeb/static/js/runtime-main.374da81e.js.map",
     "static/js/2.d5147c4c.chunk.js": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js",
     "static/js/2.d5147c4c.chunk.js.map": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js.map",
     "index.html": "/WeatherPredictionWeb/index.html",
-    "precache-manifest.307b3b38ff3731c1b9660e7c42ed4e86.js": "/WeatherPredictionWeb/precache-manifest.307b3b38ff3731c1b9660e7c42ed4e86.js",
+    "precache-manifest.909e12f7a63136d127d4c274188852b9.js": "/WeatherPredictionWeb/precache-manifest.909e12f7a63136d127d4c274188852b9.js",
     "service-worker.js": "/WeatherPredictionWeb/service-worker.js",
-    "static/css/main.6667505f.chunk.css.map": "/WeatherPredictionWeb/static/css/main.6667505f.chunk.css.map",
+    "static/css/main.d282a1ee.chunk.css.map": "/WeatherPredictionWeb/static/css/main.d282a1ee.chunk.css.map",
     "static/media/bg.png": "/WeatherPredictionWeb/static/media/bg.a5fe3c5a.png",
     "static/media/cloud.png": "/WeatherPredictionWeb/static/media/cloud.3f0a149f.png",
     "static/media/WeatherApp.scss": "/WeatherPredictionWeb/static/media/title-bar.36721591.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.374da81e.js",
     "static/js/2.d5147c4c.chunk.js",
-    "static/css/main.6667505f.chunk.css",
-    "static/js/main.5c5c5fb5.chunk.js"
+    "static/css/main.d282a1ee.chunk.css",
+    "static/js/main.d678992a.chunk.js"
   ]
 }
