@@ -21,10 +21,10 @@ export default class PredictionModal extends Component {
 
   render() {
     const prediction = this.props.data[this.state.day];
-    console.log(prediction);
+    // console.log(prediction);
     const date = new Date();
     date.setDate(date.getDate() + this.state.day);
-    console.log(date);
+    // console.log(date);
     return (
       <div className="modal-container">
         <header className="Header">
