@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0644eb4e661711a2cd99dd8d7a87fca4",
+    "revision": "67714e12e7cbcb2f836a969970f38904",
     "url": "/WeatherPredictionWeb/index.html"
   },
   {
-    "revision": "076913292b47829f4ab9",
-    "url": "/WeatherPredictionWeb/static/css/main.d282a1ee.chunk.css"
+    "revision": "af6599e62d628aac4951",
+    "url": "/WeatherPredictionWeb/static/css/main.498d33c3.chunk.css"
   },
   {
     "revision": "35ba8b4ceda2d325e2f1",
     "url": "/WeatherPredictionWeb/static/js/2.d5147c4c.chunk.js"
   },
   {
-    "revision": "076913292b47829f4ab9",
+    "revision": "af6599e62d628aac4951",
     "url": "/WeatherPredictionWeb/static/js/main.d678992a.chunk.js"
   },
   {
